@@ -13,7 +13,7 @@ fun main(){
     println(persona3)
 
     //Persona 2
-    val persona2 = Persona(80.4, 1.98)
+    val persona2 = Persona("Geo",80.4, 1.98)
     persona2.altura = persona3.altura
     println(persona2)
     println(persona3)
